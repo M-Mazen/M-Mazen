@@ -31,4 +31,4 @@ I'am Mazen Front-end Developer from
 --------------------------
 ##Where to find me
 
-![Twitter](https://img.shields.io/badge/Twitter-https://twitter.com/.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+![Twitter](https://img.shields.io/badge/Twitter-https:.svg?style=for-the-badge&logo=Twitter&logoColor=white)
