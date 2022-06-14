@@ -24,7 +24,7 @@ I'am Mazen Front-end Developer from
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href=“yushi95.medium.com”>![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white </a>
+<a href=“yushi95.medium.com”><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/> </a>
 --------------------------
 ##Where to find me
 
