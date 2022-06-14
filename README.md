@@ -1,11 +1,12 @@
-### Hi there 👋
+### Hey! Nice to see you.
+Welcome to my page!
+I'am Mazen Front-end Developer from
 
-<!--
-**M-Mazen/M-Mazen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Things I code with
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
+- 🔭 I’m currently working on ...Make Good protvile
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
