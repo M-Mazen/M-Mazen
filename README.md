@@ -24,7 +24,13 @@ I'am Mazen Front-end Developer from
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href=“https://www.youtube.com”><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/> </a>
 --------------------------
 ##Where to find me
+
+<p align="left">
+<a href="https://twitter.com/https://twitter.com/coder29790281" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/coder29790281" height="30" width="40" /></a>
+</p>
+
+
+
 
